@@ -1,5 +1,6 @@
 const Joi = require("joi");
 
+// Regex validation
 // Input Validation Schema
 class ValidatorSchema {
   //Register Data Auth Validation
